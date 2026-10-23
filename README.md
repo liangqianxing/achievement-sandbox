@@ -15,3 +15,5 @@ Temporary repository for GitHub achievements testing.
 - Entry 6
 
 - Entry 7
+
+- Entry 8
